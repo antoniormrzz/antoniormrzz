@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniormrzz&label=Profile%20views&color=0e75b6&style=flat" alt="antoniormrzz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/antoniormrzz" target="blank"><img src="https://img.shields.io/twitter/follow/antoniormrzz?logo=twitter&style=for-the-badge" alt="antoniormrzz" /></a> </p>
+<span> <a href="https://twitter.com/antoniormrzz" target="blank"><img src="https://img.shields.io/twitter/follow/antoniormrzz?logo=twitter&style=for-the-badge" alt="antoniormrzz" /></a> </span> <span class="badge-patreon"><a href="https://patreon.com/antoniormrzz" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 - 🤝 If you have enjoyed my work, I’m currently accepting donations
 <span class="badge-patreon"><a href="https://patreon.com/antoniormrzz" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
