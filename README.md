@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A Full-Stack JS junkie</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniormrzz&label=Profile%20views&color=0e75b6&style=flat" alt="antoniormrzz" /> </p> <span class="badge-patreon"><a href="https://patreon.com/antoniormrzz" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniormrzz&label=Profile%20views&color=0e75b6&style=flat" alt="antoniormrzz" /> </p> 
 <span> <a href="https://twitter.com/antoniormrzz" target="blank"><img src="https://img.shields.io/twitter/follow/antoniormrzz?logo=twitter&style=for-the-badge" alt="antoniormrzz" /></a> </span>
 
  Hey there, Antonio here, if you are here, I think something I made or wrote might help make your life easier. Almost everything I make is free, open-source, and under a license that lets you do whatever you want with it. If you would like to help me make more free projects, and maintain them, you can subscribe to a plan on my patreon. 🤝
