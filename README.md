@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniormrzz&label=Profile%20views&color=0e75b6&style=flat" alt="antoniormrzz" /> </p> 
 
 
- Hey there, Antonio here, if you are here, I think something I made or wrote might help make your life easier. Almost everything I make is free, open-source, and under a license that lets you do whatever you want with it. If you would like to help me make more free projects, and maintain them, you can subscribe to a plan on my patreon. 🤝
+ Hey, Antonio here, if you are here, I think something I made or wrote might help make your life easier. Almost everything I make is free, open-source, and under a license that lets you do whatever you want with it. If you would like to help me make more free projects, and maintain them, you can subscribe to a plan on my patreon. 🤝
 <p class="badge-patreon"><a href="https://patreon.com/antoniormrzz" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></p>
 
 
