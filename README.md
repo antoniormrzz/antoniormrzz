@@ -5,8 +5,8 @@
 
 <span> <a href="https://twitter.com/antoniormrzz" target="blank"><img src="https://img.shields.io/twitter/follow/antoniormrzz?logo=twitter&style=for-the-badge" alt="antoniormrzz" /></a> </span>
 
-- 🤝 If you have enjoyed my work, I’m currently accepting donations
-<span class="badge-patreon"><a href="https://patreon.com/antoniormrzz" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+ Hey there, Antonio here, if you are here, I think something I made or wrote might help make your life easier. Almost everything I make is free, open-source, and under a license that lets you do whatever you want with it. If you would like to help me make more free projects, and maintain them, you can subscribe to a plan on my patreon. 🤝
+<p class="badge-patreon"><a href="https://patreon.com/antoniormrzz" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
