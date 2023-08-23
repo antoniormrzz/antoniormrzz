@@ -14,6 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sepehr-alizadeh-4530408a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sepehr-alizadeh-4530408a" height="30" width="40" /></a>
-<a href="https://medium.com/@antonioramirezofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@antonioramirezofficial" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sepehr-alizadeh-4530408a" target="blank">LinkedIn</a>
+<a href="https://medium.com/@antonioramirezofficial" target="blank">Medium</a>
 </p>
